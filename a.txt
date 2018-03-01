@@ -1,3 +1,5 @@
 new a.txt
 change1: git fatch test
 test分支的修改
+
+合并分支冲突检查
