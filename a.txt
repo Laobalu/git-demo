@@ -1,5 +1,4 @@
 new a.txt
 change1: git fatch test
 branch_3对a.txt的修改
-master对a.txt的修改:wq
-
+master和branch_4对a.txt的修改
